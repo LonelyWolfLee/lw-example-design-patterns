@@ -1,4 +1,4 @@
-package gof.memento
+package gof.behavioral.memento
 
 import java.util.*
 

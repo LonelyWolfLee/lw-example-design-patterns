@@ -1,4 +1,4 @@
-package gof.memento
+package gof.behavioral.memento
 
 
 internal class Originator(private var state: String) {
